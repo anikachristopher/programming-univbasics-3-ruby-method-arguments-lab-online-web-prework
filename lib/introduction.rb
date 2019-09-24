@@ -1,5 +1,5 @@
 def introduction (Anika)
-  puts "Hi, my name is #{Anika}."
+  puts "Hi, my name is #{Anika}"
 end
 
 

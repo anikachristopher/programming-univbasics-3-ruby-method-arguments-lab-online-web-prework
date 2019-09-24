@@ -1,6 +1,6 @@
-def introduction_name (Anika)
+def introduction (Anika)
   puts "Hi, my name is #{Anika}"
-end
+
 
 
 
